@@ -91,6 +91,6 @@ _UpgradeReport_Files/
 
 Thumbs.db
 Desktop.ini
-.DS_Store
+*.DS_Store
 Assets/Plugins/Editor/JetBrains/
 
